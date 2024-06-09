@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CodeCanvas/static/css/main.a58af615.css",
-    "main.js": "/CodeCanvas/static/js/main.92cd85dd.js",
-    "static/js/453.864088f9.chunk.js": "/CodeCanvas/static/js/453.864088f9.chunk.js",
-    "static/media/LogoBig.png": "/CodeCanvas/static/media/LogoBig.d984809a97538a85d0db.png",
-    "static/media/html.png": "/CodeCanvas/static/media/html.7c1aad130f4088af5d9e.png",
-    "index.html": "/CodeCanvas/index.html",
-    "main.a58af615.css.map": "/CodeCanvas/static/css/main.a58af615.css.map",
-    "main.92cd85dd.js.map": "/CodeCanvas/static/js/main.92cd85dd.js.map",
-    "453.864088f9.chunk.js.map": "/CodeCanvas/static/js/453.864088f9.chunk.js.map"
+    "main.css": "/codeCanvas/static/css/main.a58af615.css",
+    "main.js": "/codeCanvas/static/js/main.8e714861.js",
+    "static/js/453.864088f9.chunk.js": "/codeCanvas/static/js/453.864088f9.chunk.js",
+    "static/media/LogoBig.png": "/codeCanvas/static/media/LogoBig.d984809a97538a85d0db.png",
+    "static/media/html.png": "/codeCanvas/static/media/html.7c1aad130f4088af5d9e.png",
+    "index.html": "/codeCanvas/index.html",
+    "main.a58af615.css.map": "/codeCanvas/static/css/main.a58af615.css.map",
+    "main.8e714861.js.map": "/codeCanvas/static/js/main.8e714861.js.map",
+    "453.864088f9.chunk.js.map": "/codeCanvas/static/js/453.864088f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a58af615.css",
-    "static/js/main.92cd85dd.js"
+    "static/js/main.8e714861.js"
   ]
 }
